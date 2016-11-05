@@ -1,0 +1,13 @@
+{
+    "name": "bsun/design-patterns",
+    "authors": [
+        {
+            "name": "sunnirvana",
+            "email": "yubogo@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+      "phpunit/phpunit": "5.5.*"
+    }
+}
